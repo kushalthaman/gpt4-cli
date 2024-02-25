@@ -3,7 +3,7 @@
 
 > notes:
 - you'll need to use your own api key for running the files
-- spent an hour on this, can add more functionality as needed (e.g. stream can be added smoothly without writing it in explicit json, web app, multi-turn dialogue which i didn't currently put in, plugins/external api's, etc.)
+- I've spent an hour building this, so it only has basic functionality. For future work here, I may add text-stream, make this into a web terminal hosted on a server, add multi-turn dialogue functionality, integrate plugins/external api's, etc.
 
 features:
 >cli.py:
